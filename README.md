@@ -18,7 +18,7 @@ An interactive and dynamic Sales Performance Dashboard created to analyze key bu
 - dataset/ - Raw and cleaned sales datasets used for analysis.
 - Sales_Dashboard.xlsx - The complete dashboard workbook.
 - README.md - Documentation of the project.
-- 
+  
 ## How to View
 1. Download or clone this repository.
 2. Open the .xlsx file using Microsoft Excel or import it into Google Sheets.
