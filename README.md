@@ -1,4 +1,4 @@
-# Sales-performance-dashboard
+# Sales-performance-dashboard-Microsoft Excel
 Sales data cleaning and dashboard using google sheets
 Sales Performance Dashboard
 
