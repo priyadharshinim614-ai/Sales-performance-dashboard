@@ -23,3 +23,7 @@ An interactive and dynamic Sales Performance Dashboard created to analyze key bu
 1. Download or clone this repository.
 2. Open the .xlsx file using Microsoft Excel or import it into Google Sheets.
 3. Use the filters/slicers on the dashboard sheet to interact with the visual reports.
+
+## Authour
+
+**PriyadharshiniM**
